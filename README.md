@@ -27,7 +27,7 @@ The most important thing is the stats, which I calculated using a spreadsheet li
 
 I then linked this (and other leagues done simlarly) to a database, then linked the database to Qt.
 
-The calculations then are pretty easy, once one chooses the league, then the home/away teams, we retrieve the associated stats and calculate the poisson estimate for 0,...,6, storing them in a matrix, and displaying the highest number of predicted goals for each team. Just a bunch of `for` and `if` blocks.   
+The calculations then are pretty easy, once one chooses the league, then the home/away teams, we retrieve the associated stats using the `SELECT FROM WHERE` command and calculate the poisson estimate for n=0,...,6, storing them in a matrix, and displaying the highest number of predicted goals for each team. Just a bunch of `for` and `if` blocks.   
 
 Here's the log, that I set to print some results: 
 

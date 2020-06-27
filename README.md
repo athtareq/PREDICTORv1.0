@@ -3,7 +3,7 @@ Application for predicting football results
 
 This is an application developped using C++ and the framework Qt5
 
-This application uses quite a lot of Qtś features.
+This application uses quite a lot of Qt's features.
 
 # Process
 

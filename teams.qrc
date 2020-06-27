@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="/new/teams"/>
+    <qresource prefix="/"/>
+</RCC>

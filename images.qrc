@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/photos">
+        <file>Screenshot from 2019-12-07 01-00-29.png</file>
+        <file>Screenshot from 2019-12-07 01-00-16.png</file>
+        <file>league.png</file>
+        <file>disclaimer.png</file>
+        <file>kickoff.jpg</file>
+        <file>ligue1.png</file>
+        <file>icon.jpeg</file>
+        <file>7308_la_liga_-primary-2015.png</file>
+        <file>251_-bundesliga-primary-2010.gif</file>
+        <file>663_-serie_a-primary-2010.gif</file>
+        <file>ef3f96e0384a64e74278c6cd1f5889f2.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>../../Pictures/poisson.png</file>
+        <file>../../Pictures/array.png</file>
+        <file>ligue1.png</file>
+        <file>icon.jpeg</file>
+        <file>7308_la_liga_-primary-2015.png</file>
+        <file>251_-bundesliga-primary-2010.gif</file>
+        <file>663_-serie_a-primary-2010.gif</file>
+        <file>ef3f96e0384a64e74278c6cd1f5889f2.png</file>
+    </qresource>
+</RCC>
